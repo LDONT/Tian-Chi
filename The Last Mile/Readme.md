@@ -1,3 +1,6 @@
+题目对应网址：
+https://tianchi.shuju.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.bWDUfY&raceId=231581
+
 存在三组点：网点site 124个、配送点spot 9214个、商户shop 598个。
 
 包括两种订单：电商订单、o2o订单。电商订单总共9214份，刚好覆盖到9214个spot；o2o订单3273份，只有990个spot。电商订单没有时间限制；o2o订单带有时间限制，早于取货时间等待，晚于取货时间则导致惩罚。o2o订单货量较少
